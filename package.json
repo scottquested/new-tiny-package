@@ -1,0 +1,25 @@
+{
+  "name": "@scottquested/new-tiny-package",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottquested/new-tiny-package.git"
+  },
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "scottquested"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottquested/new-tiny-package/issues"
+  },
+  "homepage": "https://github.com/scottquested/new-tiny-package#readme"
+}
